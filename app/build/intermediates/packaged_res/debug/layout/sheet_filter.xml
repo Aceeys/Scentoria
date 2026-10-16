@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/bg">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Filters"
+            android:textColor="@color/text_dark"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView style="@style/SectionLabel" android:text="PRICE RANGE" />
+        <TextView
+            android:id="@+id/tvPriceRange"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/primary"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+        <com.google.android.material.slider.RangeSlider
+            android:id="@+id/sliderPrice"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:valueFrom="0"
+            android:valueTo="25000"
+            android:stepSize="500"
+            app:trackColorActive="@color/primary"
+            app:thumbColor="@color/primary" />
+
+        <TextView style="@style/SectionLabel" android:text="SCENT FAMILY" />
+        <com.google.android.material.chip.ChipGroup android:id="@+id/cgFamily"
+            android:layout_width="match_parent" android:layout_height="wrap_content" />
+
+        <TextView style="@style/SectionLabel" android:text="BRAND" />
+        <com.google.android.material.chip.ChipGroup android:id="@+id/cgBrand"
+            android:layout_width="match_parent" android:layout_height="wrap_content" />
+
+        <TextView style="@style/SectionLabel" android:text="OCCASION" />
+        <com.google.android.material.chip.ChipGroup android:id="@+id/cgOccasion"
+            android:layout_width="match_parent" android:layout_height="wrap_content" />
+
+        <TextView style="@style/SectionLabel" android:text="SORT BY" />
+        <com.google.android.material.chip.ChipGroup android:id="@+id/cgSort"
+            android:layout_width="match_parent" android:layout_height="wrap_content"
+            app:singleSelection="true" app:selectionRequired="true" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btnReset"
+                style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Reset" />
+
+            <Button
+                android:id="@+id/btnApply"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_weight="1"
+                android:text="Apply" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

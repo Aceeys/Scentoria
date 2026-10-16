@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/header"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:padding="24dp">
+
+            <ImageView
+                android:id="@+id/ivBottle"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_marginBottom="14dp"
+                android:background="@drawable/bg_review"
+                android:contentDescription="Perfume bottle"
+                android:padding="8dp"
+                android:scaleType="fitCenter"
+                android:visibility="gone" />
+
+            <TextView android:id="@+id/dName"
+                android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:gravity="center" android:textColor="@color/white"
+                android:fontFamily="serif" android:textSize="28sp" android:textStyle="bold" />
+            <TextView android:id="@+id/dBrand"
+                android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:textColor="#F4E6DD" android:textSize="16sp" />
+            <TextView android:id="@+id/dMeta"
+                android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:layout_marginTop="6dp" android:textColor="#F4E6DD" android:textSize="13sp" />
+            <TextView android:id="@+id/dRating"
+                android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:layout_marginTop="10dp" android:textColor="#F3D58A"
+                android:textSize="20sp" android:textStyle="bold" />
+            <TextView android:id="@+id/dPrice"
+                android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:layout_marginTop="4dp" android:textColor="@color/white"
+                android:textSize="18sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <TextView android:id="@+id/dDesc"
+                android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:lineSpacingExtra="4dp" android:textColor="@color/text_dark" android:textSize="15sp" />
+
+            <TextView style="@style/SectionLabel" android:text="PERFORMANCE (ESTIMATED)" />
+            <LinearLayout android:id="@+id/statsContainer"
+                android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:layout_marginTop="8dp" android:orientation="vertical" />
+
+            <TextView style="@style/SectionLabel" android:text="MAIN ACCORDS" />
+            <LinearLayout android:id="@+id/accordsContainer"
+                android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:layout_marginTop="8dp" android:orientation="vertical" />
+
+            <TextView style="@style/SectionLabel" android:text="TOP NOTES" />
+            <TextView android:id="@+id/dTop" android:layout_width="wrap_content"
+                android:layout_height="wrap_content" android:textColor="@color/text_dark" android:textSize="15sp" />
+            <TextView style="@style/SectionLabel" android:text="HEART NOTES" />
+            <TextView android:id="@+id/dMiddle" android:layout_width="wrap_content"
+                android:layout_height="wrap_content" android:textColor="@color/text_dark" android:textSize="15sp" />
+            <TextView style="@style/SectionLabel" android:text="BASE NOTES" />
+            <TextView android:id="@+id/dBase" android:layout_width="wrap_content"
+                android:layout_height="wrap_content" android:textColor="@color/text_dark" android:textSize="15sp" />
+            <TextView android:id="@+id/dNotesNote"
+                android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:layout_marginTop="6dp" android:textColor="@color/text_muted"
+                android:textSize="11sp" android:textStyle="italic" />
+            <TextView style="@style/SectionLabel" android:text="BEST FOR" />
+            <TextView android:id="@+id/dOccasion" android:layout_width="wrap_content"
+                android:layout_height="wrap_content" android:textColor="@color/text_dark" android:textSize="15sp" />
+
+            <Button
+                android:id="@+id/btnFav"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="22dp" />
+
+            <TextView style="@style/SectionLabel" android:layout_marginTop="26dp" android:text="RATINGS &amp; REVIEWS" />
+            <LinearLayout android:id="@+id/reviewsContainer"
+                android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:layout_marginTop="8dp" android:orientation="vertical" />
+
+            <TextView style="@style/SectionLabel" android:text="WRITE YOUR REVIEW (REPLACES YOUR PREVIOUS ONE)" />
+            <RatingBar
+                android:id="@+id/ratingBar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:numStars="5"
+                android:stepSize="1" />
+            <EditText
+                android:id="@+id/etReview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_review"
+                android:gravity="top"
+                android:hint="Share your experience: how does it smell, last, project?"
+                android:importantForAutofill="no"
+                android:inputType="textMultiLine"
+                android:minLines="3"
+                android:padding="12dp"
+                android:textColor="@color/text_dark"
+                android:textSize="14sp" />
+            <Button
+                android:id="@+id/btnSubmit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="24dp"
+                android:text="Submit review" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

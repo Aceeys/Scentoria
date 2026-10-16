@@ -1,0 +1,44 @@
+# Brand|Name|top|heart|base   (comma separated). Entries not listed here use typical notes of the scent family.
+Creed|Aventus|Pineapple,Bergamot,Apple,Blackcurrant|Birch,Patchouli,Jasmine,Rose|Musk,Oakmoss,Ambergris,Vanilla
+Creed|Green Irish Tweed|Lemon Verbena,Iris|Violet Leaf,Sandalwood|Ambergris,Musk
+Creed|Silver Mountain Water|Bergamot,Mandarin,Black Currant|Green Tea,Galbanum|Sandalwood,Musk
+Dior|Sauvage|Calabrian Bergamot,Pepper|Sichuan Pepper,Lavender,Pink Pepper,Geranium|Ambroxan,Cedar,Labdanum
+Dior|Sauvage Elixir|Grapefruit,Cinnamon,Nutmeg,Cardamom|Lavender|Licorice,Sandalwood,Amber,Patchouli
+Dior|J'adore|Pear,Melon,Peach,Mandarin,Bergamot|Jasmine,Lily of the Valley,Tuberose,Rose,Orchid|Musk,Vanilla,Blackberry,Cedar
+Dior|Fahrenheit|Lavender,Mandarin,Bergamot,Lemon,Nutmeg|Honeysuckle,Violet Leaf,Jasmine,Cedar|Leather,Vetiver,Musk,Amber,Patchouli
+Chanel|No. 5|Aldehydes,Bergamot,Lemon,Neroli|Jasmine,Rose,Ylang-Ylang,Lily of the Valley|Vanilla,Sandalwood,Vetiver,Amber
+Chanel|Bleu de Chanel|Grapefruit,Lemon,Mint,Pink Pepper|Ginger,Nutmeg,Jasmine|Incense,Cedar,Sandalwood,Labdanum
+Chanel|Coco Mademoiselle|Orange,Mandarin,Bergamot|Rose,Jasmine,Mimosa,Ylang-Ylang|Patchouli,Vetiver,Vanilla,White Musk
+Chanel|Chance|Pink Pepper,Pineapple,Lemon|Hyacinth,Jasmine,Iris|Patchouli,Vetiver,Vanilla,White Musk
+Yves Saint Laurent|Libre|Mandarin,Lavender,Black Currant|Orange Blossom,Jasmine,Lavender|Vanilla,Musk,Cedar,Ambergris
+Yves Saint Laurent|Black Opium|Pear,Pink Pepper,Orange Blossom|Coffee,Jasmine,Bitter Almond|Vanilla,Patchouli,Cedar
+Versace|Eros|Mint,Green Apple,Lemon|Tonka Bean,Geranium,Ambroxan|Vanilla,Vetiver,Oakmoss,Cedar
+Versace|Bright Crystal|Yuzu,Pomegranate,Frosted Accord|Peony,Magnolia,Lotus|Musk,Amber,Mahogany
+Tom Ford|Tobacco Vanille|Tobacco Leaf,Spices|Tobacco Flower,Vanilla,Cacao,Tonka Bean|Dried Fruits,Woody Notes
+Tom Ford|Black Orchid|Truffle,Gardenia,Bergamot|Orchid,Spice,Lotus|Patchouli,Vanilla,Incense,Sandalwood
+Tom Ford|Oud Wood|Rosewood,Cardamom,Chinese Pepper|Oud,Sandalwood,Vetiver|Tonka Bean,Amber
+Tom Ford|Lost Cherry|Black Cherry,Cherry Liqueur,Bitter Almond|Turkish Rose,Jasmine Sambac|Tonka Bean,Sandalwood,Cedar,Vetiver
+Maison Francis Kurkdjian|Baccarat Rouge 540|Saffron,Jasmine|Amberwood,Ambergris|Fir Resin,Cedar
+Xerjoff|Naxos|Lavender,Bergamot,Lemon|Cinnamon,Honey,Cashmeran,Jasmine|Tobacco,Vanilla,Tonka Bean
+Parfums de Marly|Layton|Apple,Lavender,Bergamot,Mandarin|Geranium,Violet,Jasmine|Vanilla,Cardamom,Sandalwood,Pepper,Patchouli
+Giorgio Armani|Acqua di Gio|Lime,Lemon,Bergamot,Jasmine|Sea Notes,Peach,Rosemary,Nutmeg|White Musk,Cedar,Oakmoss,Amber
+Giorgio Armani|Si|Blackcurrant,Mandarin|Freesia,Rose,Neroli|Vanilla,Patchouli,Amber,Blonde Woods
+Giorgio Armani|Armani Code|Lemon,Bergamot|Olive Blossom,Star Anise,Guaiac Wood|Tonka Bean,Leather,Tobacco
+Dolce and Gabbana|Light Blue|Sicilian Lemon,Apple,Cedar,Bellflower|Jasmine,Bamboo,White Rose|Cedar,Musk,Amber
+Hermes|Terre d'Hermes|Orange,Grapefruit|Pepper,Pelargonium,Flint|Vetiver,Cedar,Benzoin
+Lancome|La Vie Est Belle|Black Currant,Pear|Iris,Jasmine,Orange Blossom|Praline,Vanilla,Patchouli,Tonka Bean
+Marc Jacobs|Daisy|Strawberry,Violet Leaf,Blood Grapefruit|Gardenia,Violet,Jasmine|Musk,Vanilla,White Woods
+Paco Rabanne|1 Million|Grapefruit,Mint,Blood Mandarin|Cinnamon,Spicy Notes,Rose|Amber,Leather,Wood,Indian Patchouli
+Paco Rabanne|Invictus|Grapefruit,Marine Notes,Mandarin|Bay Leaf,Jasmine|Guaiac Wood,Patchouli,Oakmoss,Ambergris
+Jean Paul Gaultier|Le Male|Lavender,Mint,Bergamot,Cardamom|Cinnamon,Cumin,Orange Blossom|Vanilla,Tonka Bean,Amber,Sandalwood,Cedar
+Calvin Klein|CK One|Bergamot,Pineapple,Cardamom,Papaya|Jasmine,Violet,Rose,Nutmeg|Musk,Amber,Cedar,Sandalwood
+Mugler|Angel|Bergamot,Cotton Candy,Coconut|Honey,Jasmine,Red Berries|Patchouli,Chocolate,Caramel,Vanilla
+Byredo|Gypsy Water|Bergamot,Lemon,Pepper,Juniper|Incense,Pine Needles,Orris|Amber,Vanilla,Sandalwood
+Le Labo|Santal 33|Cardamom,Iris,Violet|Papyrus,Cedar,Leather|Sandalwood,Ambroxan,Musk
+Maison Margiela|Replica By the Fireplace|Pink Pepper,Orange Blossom,Clove|Chestnut,Guaiac Wood,Cashmeran|Vanilla,Peru Balsam,Cashmeran
+Maison Margiela|Replica Jazz Club|Pink Pepper,Neroli,Lemon|Rum,Java Vetiver Oil,Clary Sage|Tobacco Leaf,Vanilla Bean,Styrax
+Guerlain|Shalimar|Bergamot,Lemon,Mandarin|Jasmine,Rose,Iris|Vanilla,Opoponax,Tonka Bean,Sandalwood
+Ralph Lauren|Polo Blue|Melon,Cucumber,Mandarin|Basil,Sage,Geranium|Suede,Musk,Woody Notes
+Hugo Boss|Boss Bottled|Apple,Plum,Lemon,Bergamot|Geranium,Cinnamon,Mahogany|Vanilla,Sandalwood,Vetiver,Cedar
+Gucci|Guilty|Mandarin,Pink Pepper,Peach|Lilac,Geranium|Patchouli,Amber
+Carolina Herrera|Good Girl|Almond,Coffee,Lemon|Tuberose,Jasmine Sambac,Orange Blossom|Tonka Bean,Cacao,Vanilla,Sandalwood

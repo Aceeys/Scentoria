@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/tvAvatar"
+            android:layout_width="88dp"
+            android:layout_height="88dp"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:textSize="38sp"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <EditText
+                android:id="@+id/etName"
+                android:layout_width="0dp"
+                android:layout_height="48dp"
+                android:layout_weight="1"
+                android:background="@drawable/bg_search"
+                android:hint="Your display name"
+                android:importantForAutofill="no"
+                android:inputType="textPersonName"
+                android:maxLines="1"
+                android:paddingStart="20dp"
+                android:paddingEnd="20dp"
+                android:textColor="@color/text_dark" />
+
+            <Button
+                android:id="@+id/btnSaveName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:text="Save" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:orientation="horizontal"
+            android:weightSum="3">
+
+            <LinearLayout style="@style/StatBox">
+                <TextView android:id="@+id/statFav" style="@style/StatNumber" />
+                <TextView style="@style/StatLabel" android:text="Favorites" />
+            </LinearLayout>
+            <LinearLayout style="@style/StatBox">
+                <TextView android:id="@+id/statRev" style="@style/StatNumber" />
+                <TextView style="@style/StatLabel" android:text="Reviews" />
+            </LinearLayout>
+            <LinearLayout style="@style/StatBox">
+                <TextView android:id="@+id/statAvg" style="@style/StatNumber" />
+                <TextView style="@style/StatLabel" android:text="Avg. rating" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <TextView style="@style/SectionLabel" android:text="YOUR PREFERENCES" />
+        <TextView
+            android:id="@+id/tvPrefs"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:textColor="@color/text_dark"
+            android:textSize="14sp" />
+
+        <TextView style="@style/SectionLabel" android:text="MY REVIEWS" />
+        <LinearLayout
+            android:id="@+id/myReviews"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="6dp"
+            android:orientation="vertical" />
+
+        <Button
+            android:id="@+id/btnClear"
+            style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="Clear all my data" />
+    </LinearLayout>
+</ScrollView>

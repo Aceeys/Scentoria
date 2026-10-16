@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Scentoria</string>
+    <string name="nav_search">Discover</string>
+    <string name="nav_favorites">Favorites</string>
+    <string name="nav_compare">Compare</string>
+    <string name="nav_foryou">For You</string>
+    <string name="nav_profile">Profile</string>
+    <string name="add_fav">♡  Save to favorites</string>
+    <string name="remove_fav">♥  Remove from favorites</string>
+</resources>

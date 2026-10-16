@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "com.example.scentoria.app-merged_res-33:/layout_fragment_compare.xml.flat",
+        "source": "com.example.scentoria.app-main-35:/layout/fragment_compare.xml"
+    },
+    {
+        "merged": "com.example.scentoria.app-merged_res-33:/layout_item_perfume.xml.flat",
+        "source": "com.example.scentoria.app-main-35:/layout/item_perfume.xml"
+    },
+    {
+        "merged": "com.example.scentoria.app-merged_res-33:/layout_chip_choice.xml.flat",
+        "source": "com.example.scentoria.app-main-35:/layout/chip_choice.xml"
+    },
+    {
+        "merged": "com.example.scentoria.app-merged_res-33:/layout_sheet_filter.xml.flat",
+        "source": "com.example.scentoria.app-main-35:/layout/sheet_filter.xml"
+    },
+    {
+        "merged": "com.example.scentoria.app-merged_res-33:/layout_chip_filter.xml.flat",
+        "source": "com.example.scentoria.app-main-35:/layout/chip_filter.xml"
+    },
+    {
+        "merged": "com.example.scentoria.app-merged_res-33:/drawable_ic_person.xml.flat",
+        "source": "com.example.scentoria.app-main-35:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "com.example.scentoria.app-merged_res-33:/drawable_bg_round_btn.xml.flat",
+        "source": "com.example.scentoria.app-main-35:/drawable/bg_round_btn.xml"
+    },
+    {
+        "merged": "com.example.scentoria.app-merged_res-33:/layout_fragment_favorites.xml.flat",
+        "source": "com.example.scentoria.app-main-35:/layout/fragment_favorites.xml"
+    },
+    {
+        "merged": "com.example.scentoria.app-merged_res-33:/layout_fragment_profile.xml.flat",
+        "source": "com.example.scentoria.app-main-35:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.scentoria.app-merged_res-33:/layout_activity_detail.xml.flat",
+        "source": "com.example.scentoria.app-main-35:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "com.example.scentoria.app-merged_res-33:/drawable_ic_search.xml.flat",
+        "source": "com.example.scentoria.app-main-35:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.example.scentoria.app-merged_res-33:/layout_fragment_foryou.xml.flat",
+        "source": "com.example.scentoria.app-main-35:/layout/fragment_foryou.xml"
+    },
+    {
+        "merged": "com.example.scentoria.app-merged_res-33:/layout_activity_main.xml.flat",
+        "source": "com.example.scentoria.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.scentoria.app-merged_res-33:/drawable_ic_heart.xml.flat",
+        "source": "com.example.scentoria.app-main-35:/drawable/ic_heart.xml"
+    },
+    {
+        "merged": "com.example.scentoria.app-merged_res-33:/layout_fragment_home.xml.flat",
+        "source": "com.example.scentoria.app-main-35:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.scentoria.app-merged_res-33:/drawable_ic_compare.xml.flat",
+        "source": "com.example.scentoria.app-main-35:/drawable/ic_compare.xml"
+    },
+    {
+        "merged": "com.example.scentoria.app-merged_res-33:/drawable_bg_search.xml.flat",
+        "source": "com.example.scentoria.app-main-35:/drawable/bg_search.xml"
+    },
+    {
+        "merged": "com.example.scentoria.app-merged_res-33:/menu_bottom_nav.xml.flat",
+        "source": "com.example.scentoria.app-main-35:/menu/bottom_nav.xml"
+    },
+    {
+        "merged": "com.example.scentoria.app-merged_res-33:/drawable_ic_filter.xml.flat",
+        "source": "com.example.scentoria.app-main-35:/drawable/ic_filter.xml"
+    },
+    {
+        "merged": "com.example.scentoria.app-merged_res-33:/drawable_bg_review.xml.flat",
+        "source": "com.example.scentoria.app-main-35:/drawable/bg_review.xml"
+    },
+    {
+        "merged": "com.example.scentoria.app-merged_res-33:/drawable_ic_star.xml.flat",
+        "source": "com.example.scentoria.app-main-35:/drawable/ic_star.xml"
+    }
+]
